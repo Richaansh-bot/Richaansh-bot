@@ -7,7 +7,7 @@
 [![Hello programmer Welcome to my profile](https://img.shields.io/badge/Hello,Programmer!-Welcome-orange.svg?style=flat&logo=github)](https://github.com/Richaansh-bot) [![Profile](https://visitor-badge.glitch.me/badge?page_id=Richaansh-bot.profileviews-badge)](https://github.com/Richaansh-bot) [![followers](https://img.shields.io/github/followers/Richaansh-bot?style=social)](https://github.com/Richaansh-bot?tab=followers) [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/Richaansh-bot)[![Repos Badge](https://badges.pufler.dev/repos/Richaansh-bot)](https://github.com/Richaansh-bot?tab=repositories) [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/richaansh-gour-92746b20b) [![Subscribe my Channel](https://img.shields.io/badge/--youtube?label=YouTube&logo=YouTube&style=social)](https://www.youtube.com/channel/UCjd7tFiKQQipzj6OHlh6VAg)
 <br>
 
-Hi, I'm Richaansh, a passionate frontend web developer and a youtuber from India. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
+Hi, I'm Richaansh, a passionate frontend Innovator and a Analyst from India. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
 
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="450" height="290" />
