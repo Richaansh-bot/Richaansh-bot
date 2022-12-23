@@ -20,7 +20,7 @@ Hi, I'm Richaansh, a passionate frontend Innovator and a Analyst from India. My 
 <h3> 🎯 I’m focusing on 😅.</h3>
 
 <h3>
-<details> <summary>💬 How to reach me😎 </summary> <a href="https://www.instagram.com/scientific_world__/" target="blank"><img align="center" src="https://media.giphy.com/media/WyZy1cltG36Y04OCLG/giphy.gif" width="27px" /> </a> <a href="https://www.linkedin.com/in/richaansh-gour-92746b20b" target="blank"><img align="center" src="https://media.giphy.com/media/HQTYdpx1yhxWpugAi2/giphy.gif" width="27px" /></a> </a> <a href="https://www.youtube.com/channel/UCQMSzCMZv2L1liJyvgzat5Q?app=desktop" target="blank"> <img align="center" src="https://media.giphy.com/media/5a3xbeZj7AkqG8197S/giphy.gif" width="27px" /> </a>
+<details> <summary>💬 How to reach me😎 </summary> <a href="https://www.instagram.com/scientific_world__/" target="blank"><img align="center" src="https://media.giphy.com/media/WyZy1cltG36Y04OCLG/giphy.gif" width="27px" /> </a> <a href="https://www.linkedin.com/in/richansh-in/" target="blank"><img align="center" src="https://media.giphy.com/media/HQTYdpx1yhxWpugAi2/giphy.gif" width="27px" /></a> </a> <a href="https://www.youtube.com/channel/UCQMSzCMZv2L1liJyvgzat5Q?app=desktop" target="blank"> <img align="center" src="https://media.giphy.com/media/5a3xbeZj7AkqG8197S/giphy.gif" width="27px" /> </a>
 </details>  
 </h3>
 
