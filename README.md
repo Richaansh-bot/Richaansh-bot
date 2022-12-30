@@ -13,7 +13,7 @@ Hi, I'm Richaansh, a passionate frontend Innovator and a Analyst from India. My 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="450" height="290" />
 
 <br>
-<h3> 🔭 I'm in the 1<sup>st</sup> year of B.Tech.</h3>
+<h3> 🔭 I'm in the 3<sup>st</sup> year of B.Tech.</h3>
 
 <h3> 🌱 I’m currently Developing Projects in 👻.</h3>
 
